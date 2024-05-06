@@ -1,4 +1,6 @@
-public class OperatorDemo {
+package Operator ;
+public class Operator {
+    
 public static void main(String[] args) {
 int angka1 = 10;
 int angka2 = 5;
