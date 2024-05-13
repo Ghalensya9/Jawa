@@ -1,4 +1,4 @@
-package Tipe_Data;
+package Pertemuan5;
 public class Tipe_Data {
 
     public static void main(String[] args) {

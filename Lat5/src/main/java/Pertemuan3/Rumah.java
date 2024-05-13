@@ -1,3 +1,4 @@
+package Pertemuan3 ;
 public class Rumah {
 // Variabel instance
 int jumlahKamar;
@@ -13,7 +14,6 @@ rumahku.warnaCat = "Biru";
 // Mencetak informasi rumah
 System.out.println("Jumlah kamar: " + rumahku.jumlahKamar);
 System.out.println("Warna cat: " + rumahku.warnaCat);
-System.out.println("Tinggi atap: " + tinggiAtap); // Hanya dapat diakses
-di dalam metode main
+System.out.println("Tinggi atap: " + tinggiAtap); // Hanya dapat diaksesdi dalam metode main
 }
 }

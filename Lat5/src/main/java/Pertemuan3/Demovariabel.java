@@ -1,5 +1,6 @@
+package Pertemuan3;
 
-public class DemoVariabel {
+public class Demovariabel {
 
     public static void main(String[] args) {
 // Deklarasi variabel

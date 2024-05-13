@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.mavenproject1;
+package Pertemuan2;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author A-16
  */
-public class NewClass1 {
+public class Tugas1 {
 
     public static void main(String[] args) {
         String Nama = "Ghalensya Novelan";

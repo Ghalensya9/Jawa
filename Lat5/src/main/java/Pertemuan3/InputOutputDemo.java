@@ -1,4 +1,4 @@
-
+package Pertemuan3;
 import java.util.Scanner; // Import library Scanner untuk input data
 
 public class InputOutputDemo {
@@ -49,3 +49,5 @@ public class InputOutputDemo {
         System.out.println("Umur: " + umur);
         System.out.println("Kode pos: " + kodePos);
         System.out.println("Populasi negara: " + populasiNegara);
+    }
+}

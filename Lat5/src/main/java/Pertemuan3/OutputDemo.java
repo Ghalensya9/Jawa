@@ -1,4 +1,4 @@
-
+package Pertemuan3 ;
 public class OutputDemo {
 
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class OutputDemo {
         double hargaBarang = 150000.0;
         float diskon = 0.1f;
         byte umur = 17;
-        short kodePos = 51121;
+        short kodePos = 5121;
         long populasiNegara = 273523615;
         String namaLengkap = "Budi Raharjo";
 // Menampilkan data

@@ -1,4 +1,10 @@
-   public class Kalkulator {
+package Pertemuan3 ; 
+import java.util.Scanner;
+
+
+
+
+public class Kalkulator {
 public static void main(String[] args) {
 // Deklarasi variabel
 int angka1, angka2;
@@ -8,7 +14,7 @@ char operator;
 System.out.print("Masukkan angka pertama: ");
 angka1 = scanner.nextInt();
 System.out.print("Masukkan operator (+, -, *, /): ");
-operator = scanner.nextChar();
+operator = scanner.next().charAt(0);
 System.out.print("Masukkan angka kedua: ");
 angka2 = scanner.nextInt();
 // Menghitung hasil
